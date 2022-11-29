@@ -1,1 +1,0 @@
- select CUS_NAME, CUS_GENDER FROM customer WHERE CUS_NAME LIKE 'A%' or CUS_NAME LIKE '%A';
